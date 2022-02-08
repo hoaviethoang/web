@@ -19,4 +19,4 @@ Em xây dưng web thi thử bằng lái xe để mọi người có thể có th
 
 # Markdown Worksheet
 
-![Project File](https://github.com/hoaviethoang/web-thi-thu/tree/main/tintuc)
+![Project Folder](https://github.com/hoaviethoang/web-thi-thu/tree/main/tintuc)
