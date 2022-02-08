@@ -11,5 +11,9 @@ Em xây dưng web thi thử bằng lái xe để mọi người có thể có th
 - [License](#license)
 - [RESTful API ](#RESTful-API )
 
+# Giao diện của trang
 
+![Project Image](https://github.com/hoaviethoang/web-thi-thu/blob/main/12.jpg)
+
+![Project Image](https://github.com/hoaviethoang/web-thi-thu/blob/main/13.jpg)
 
