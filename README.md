@@ -8,7 +8,6 @@ Em xây dưng web thi thử bằng lái xe để mọi người có thể có th
 - [Bootstrap](#Bootstrap)
 - [JQuery](#JQuery)
 - [Laravel](#Laravel)
-- [License](#license)
 - [RESTful API ](#RESTful-API )
 
 # Giao diện của trang
